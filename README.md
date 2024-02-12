@@ -48,4 +48,4 @@ Use rofi for dmenu and polybar for the status bar
 - Change Focus between Tiling / Floating Windows : `mod + space`
 - Kill task : `mod+ctrl+x`
 
-![screenshots] (screenshot.png)
+![screenshots](screenshot.png)
